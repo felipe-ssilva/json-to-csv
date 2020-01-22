@@ -11,9 +11,8 @@ Copie o código abaixo e cole no arquivo.
 ```python
 import sys, json, csv
 
-##
 # Convert to string keeping encoding in mind...
-##
+
 def to_string(s):
     try:
         return str(s)
