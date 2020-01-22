@@ -8,7 +8,7 @@ Com poucas linhas de código você pode converter seu arquivo json em um arquivo
 Crie o arquivo: **json_to_csv.py** (Ou com qualquer outro nome que desejar, o que importa é formato .py)
 
 Copie o código abaixo e cole no arquivo.
-```
+```python
 # -*- coding: utf-8 -*-
 
 import csv, json, sys
