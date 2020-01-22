@@ -1,4 +1,4 @@
-# Conversor de arquivo JSON para CSV com Python
+# Conversor de arquivo JSON para CSV com Python 🐍
 
 É uma aplicacão extremamente simples, porém me ajudou MUITO em um trabalho.
 Com poucas linhas de código você pode converter seu arquivo json em um arquivo csv usando Python.
